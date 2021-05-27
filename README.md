@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github.com/coderMicah/Bookmark-Landing-Page](https://github.com/coderMicah/Bookmark-Landing-Page)
+- Live Site URL: [/micah-bookmarkpage.netlify.app/](https://micah-bookmarkpage.netlify.app/)
 
 ## My process
 
